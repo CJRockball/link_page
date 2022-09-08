@@ -1,7 +1,7 @@
-# link_page
+# Link Page
 Choose link
-* [Tips](https://github.com/CJRockball/pred_service)
-* MSD subset
+* [Tips Dataset](https://github.com/CJRockball/pred_service)
+* MSD Subset
 * Time Series (RNN)
 * CNN
 
